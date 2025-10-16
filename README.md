@@ -119,11 +119,6 @@ Ví dụ:
 ```
 http://192.168.1.45
 ```
-
-<p align="center">
-  <img src="image/fluidd-ui.png" alt="Giao diện Fluidd sau khi cài đặt thành công" width="800">
-</p>
-
 ---
 
 ## 4. Build và nạp firmware cho bo mạch (MCU)
