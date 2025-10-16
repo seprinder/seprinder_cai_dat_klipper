@@ -33,15 +33,15 @@ Cách dễ nhất để ghi (flash) hệ điều hành này vào thẻ SD là s�
    Sau khi mở phần mềm, chọn **Choose OS → Raspberry Pi OS (other)**.
 
    <p align="center">
-     <img src="https://raw.githubusercontent.com/seprinder/seprinder_cai_dat_klipper/image/pi-imager-os.png" alt="Chọn hệ điều hành Raspberry Pi OS Lite trong Imager" width="800">
+     <img src="https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/Image/pi-imager-os.png" alt="Chọn hệ điều hành Raspberry Pi OS Lite trong Imager" width="600">
    </p>
 
 2. **Chọn phiên bản hệ điều hành:**  
    Chọn **Raspberry Pi OS Lite (32-bit)**  
    (hoặc chọn bản **64-bit** nếu bạn muốn dùng phiên bản 64-bit).
 
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/seprinder/seprinder_cai_dat_klipper/tree/main/Image/pi-imager-lite.png" alt="Chọn Raspberry Pi OS Lite 32bit" width="600">
+    <p align="center">
+     <img src="https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/Image/pi-imager-lite.png" alt="Chọn Raspberry Pi OS Lite 32bit" width="600">
    </p>
 
 3. **Quay lại menu chính của Raspberry Pi Imager**, chọn đúng **thẻ SD** bạn muốn ghi hệ điều hành vào.
@@ -51,8 +51,8 @@ Cách dễ nhất để ghi (flash) hệ điều hành này vào thẻ SD là s�
    - Thiết lập **Wi-Fi SSID / Password** nếu dùng Wi-Fi.  
    - Tùy chọn: đặt tên thiết bị và mật khẩu mới nếu muốn.
 
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/seprinder/seprinder_cai_dat_klipper/image/pi-imager-advanced.png" alt="Bật SSH và cấu hình Wi-Fi trong Raspberry Pi Imager" width="600">
+    <p align="center">
+     <img src="https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/Image/pi-imager-advanced.png" alt="Bật SSH và cấu hình Wi-Fi trong Raspberry Pi Imager" width="600">
    </p>
 
 5. Nhấn **Write** để bắt đầu ghi hệ điều hành.  
