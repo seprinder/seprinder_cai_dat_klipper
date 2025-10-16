@@ -88,7 +88,7 @@ git clone https://github.com/dw-0/kiauh.git
 Sau khi lệnh cuối cùng chạy xong, bạn sẽ thấy menu KIAUH hiển thị như sau:
 
 <p align="center">
-  <img src="image/kiauh-menu.png" alt="Giao diện menu KIAUH" width="600">
+  <img src="https://github.com/seprinder/seprinder_cai_dat_klipper/blob/main/Image/kiauh-menu.png" alt="Giao diện menu KIAUH" width="600">
 </p>
 
 Đây là giao diện chính để bạn cài đặt, cập nhật hoặc gỡ Klipper và các thành phần khác.
