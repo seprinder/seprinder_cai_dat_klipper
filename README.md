@@ -1,4 +1,4 @@
-# Hướng dẫn cài đặt Klipper bằng KIAUH
+# Hướng dẫn cài đặt Klipper
 
 Cài đặt Klipper bằng [KIAUH](https://github.com/dw-0/kiauh)
 
